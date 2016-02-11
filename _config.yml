@@ -3,8 +3,8 @@ source:      ./app
 destination: ./dist
 
 # Setup
-name: Per Sandström
-timezone: Europe/Stockholm
+name: Ciaran McGhie
+timezone: GMT/London
 exclude:
  - autoprefixer.yml
 
