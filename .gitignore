@@ -4,6 +4,9 @@
 # Binaries
 bin/
 
+#Sass
+.sass-cache/
+
 # Drafts
 app/_drafts/
 
@@ -19,3 +22,6 @@ node_modules/
 # Vendor
 /vendor
 app/_assets/vendor
+
+#OS X
+.DS_Store
