@@ -1,5 +1,0 @@
-/* TEAM */
-  Developer: Ciaran McGhie
-  Contact: ciaranmcghie@gmail.com	
-  Twitter: @ciaran128
-  Location: London, UK 
